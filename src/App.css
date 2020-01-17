@@ -1,0 +1,38 @@
+body{
+  background-color: #19e2c796 !important;
+  background-image: url('./yellow-and-and-blue-colored-pencils-1762851.jpg');
+  background-repeat: no-repeat;
+}
+.app{
+  min-height: 100vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.tweet{
+  height: 300px;
+  width:300px;
+  background: white;
+  border-radius: 30px;
+  border: 2px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.red{
+  color: red;
+  font-size: 50px;
+}
+label{
+  color:#ffeb3b;
+  font-weight: bold;
+  font-size: large;
+}
+img{
+  width: 75px;
+}
+.error{
+  color: red;
+}
+
